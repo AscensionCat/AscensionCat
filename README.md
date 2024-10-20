@@ -1,6 +1,6 @@
 # **[Yusuf Mert Çınar]**
 
-**A passionate electricial electronics engineer.**
+**A passionate electrical electronics engineer.**
 
 ### **About Me**
 I'm a 2nd-year Electrical and Electronics Engineering student at Inonu University, eager to apply my skills in the software development industry. With a strong foundation in C, C#, Java, and JavaScript, I've been developing games using Unity and have a Udemy certification to prove it.
