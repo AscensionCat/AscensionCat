@@ -1,16 +1,17 @@
-## Hi there 👋
+# **[Yusuf Mert Çınar]**
 
-<!--
-**AscensionCat/AscensionCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A passionate electricial electronics engineer.**
 
-Here are some ideas to get you started:
+### **About Me**
+I'm a 2nd-year Electrical and Electronics Engineering student at Inonu University, eager to apply my skills in the software development industry. With a strong foundation in C, C#, Java, and JavaScript, I've been developing games using Unity and have a Udemy certification to prove it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Skills**
+* **Programming Languages:** C, C#, Java, JavaScript
+* **Game Development:** Unity
+* **Version Control:** Git
+
+### **Let's Connect**
+Feel free to reach out if you have any questions or want to collaborate on a project. 
+
+* **LinkedIn:** [https://tr.linkedin.com/in/yusuf-mert-%C3%A7%C4%B1nar-99261b29a?trk=people-guest_people_search-card]
+* **Email:** [ymertc@hotmail.com]
